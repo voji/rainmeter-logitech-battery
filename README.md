@@ -1,6 +1,6 @@
 # Rainmeter Logitech Battery
 
-A compact Rainmeter widget for Logitech mouse battery percentage and charging status, powered by [Logitray](https://github.com/voji/logitray).
+A compact Rainmeter widget for Logitech mouse battery percentage and charging status, powered by [Logitray](https://github.com/Ithilias/logitray).
 
 ![Mouse Battery widget showing a PRO X Wireless mouse at 74%](docs/screenshot.png)
 
